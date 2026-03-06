@@ -1,10 +1,10 @@
 #Sales Data Analysis Project – 2023
 
-#Project Overview
+#Project Overview :
 This project is a Power BI dashboard that analyzes the sales data of a company for the year 2023. 
 The main goal is to explore, clean, and visualize the sales data to provide insights into business performance.
 
-#Features
+#Features :
   -Data Importation: Import sales data from various sources (CSV, Excel, database, etc.).
   -Data Exploration: Explore the dataset to understand the structure, missing values, and key statistics.
   -Data Cleaning: Handle missing values, correct data types, remove duplicates, and ensure data quality.
@@ -17,7 +17,7 @@ The main goal is to explore, clean, and visualize the sales data to provide insi
             Monthly and quarterly trends 
             etc...
 
-#Technologies Used
+#Technologies Used :
   -Power BI Desktop – for data cleaning, transformation, and visualization
   -DAX (Data Analysis Expressions) – for calculated measures and KPIs
   -Power Query – for data importation and transformation
